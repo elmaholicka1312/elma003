@@ -1,0 +1,23 @@
+img {
+width:400px;
+height:500px;
+margin:auto;
+padding:3px;
+}
+
+p {
+    font-size:30px;
+}
+
+a {
+    text-decoration:none;
+    color:red;
+    font-size:30px;
+}
+
+a:hover {
+
+    color:orange;
+
+
+}
